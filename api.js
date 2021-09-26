@@ -2,7 +2,7 @@ const http = require('http');
 const getRoute = require('./apiRouter.js').getRoute;
 const parseUrlArgs = require('./helpers.js').parseUrlArgs;
 
-const PORT = process.env.port || 7070;
+const PORT = process.env.PORT || 7070;
 const URL = 'http://localhost:';
 const __DEV = true;
 
