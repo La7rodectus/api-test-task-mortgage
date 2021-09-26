@@ -1,0 +1,22 @@
+{
+  "name": "api-test-task-mortgage",
+  "version": "1.0.0",
+  "description": "API for mortgage calculator",
+  "main": "api.js",
+  "scripts": {
+    "start": "node api.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/La7rodectus/api-test-task-mortgage.git"
+  },
+  "author": "La7rodectus",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/La7rodectus/api-test-task-mortgage/issues"
+  },
+  "homepage": "https://github.com/La7rodectus/api-test-task-mortgage#readme",
+  "dependencies": {
+    "mysql": "^2.18.1"
+  }
+}
